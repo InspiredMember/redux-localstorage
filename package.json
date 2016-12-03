@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elgerlambert/redux-localstorage.git"
+    "url": "git+https://github.com/.git"
   },
   "keywords": [
     "Redux",
     "localstorage"
   ],
-  "author": "Elger Lambert <elgerlambert@gmail.com>",
+  "author": "Jeff Trudeau <jeff.trudeau@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/elgerlambert/redux-localstorage/issues"
+    "url": "https://github.com/InspiredMember/redux-localstorage/issues"
   },
-  "homepage": "https://github.com/elgerlambert/redux-localstorage#readme",
+  "homepage": "https://github.com/InspiredMember/redux-localstorage#readme",
   "devDependencies": {
     "babel": "^5.8.5",
     "babel-core": "^5.8.5",
